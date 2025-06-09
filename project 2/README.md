@@ -40,3 +40,30 @@ A modern, sleek, and fully customizable random password generator built using **
 ```bash
 git clone https://github.com/yourusername/random-password-generator-gui.git
 cd random-password-generator-gui
+```
+
+### 2. Install requirements
+```
+pip install customtkinter
+```
+### 3. Run the application
+```
+python Project 2 (Random Password Generator).py
+```
+
+---
+
+## 🧠 Future Improvements
+ Add light/dark theme switcher
+
+ Copy password to clipboard
+
+ Export password to file
+
+ Add strength meter
+
+---
+
+## 🙋‍♂️ Author
+Aman Yadav
+Feel free to reach out or contribute to this project!
