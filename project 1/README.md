@@ -1,4 +1,3 @@
-# Project 01
 # 💱 Currency Converter - Python GUI App
 
 A simple and stylish currency converter built using **CustomTkinter** and the **Frankfurter Currency API**. This application allows users to convert amounts between major world currencies with a sleek dark-themed user interface.
