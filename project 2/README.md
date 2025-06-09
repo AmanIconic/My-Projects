@@ -48,7 +48,7 @@ pip install customtkinter
 ```
 ### 3. Run the application
 ```
-python Project 2 (Random Password Generator).py
+python Project_2_(Random_Password_Generator).py
 ```
 
 ---
