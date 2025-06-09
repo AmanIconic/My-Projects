@@ -36,7 +36,7 @@ cd currency-converter
 ```
 ### 2.Run the application:
 ```
-python Project_1_(Currency Converter).py
+python Project_1_(Currency_Converter).py
 ```
 
 ---
