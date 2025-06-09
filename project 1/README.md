@@ -2,6 +2,8 @@
 
 A simple and stylish currency converter built using **CustomTkinter** and the **Frankfurter Currency API**. This application allows users to convert amounts between major world currencies with a sleek dark-themed user interface.
 
+---
+
 ## 🚀 Features
 
 - ✅ Real-time currency conversion using the [Frankfurter API](https://www.frankfurter.app/)
@@ -9,6 +11,8 @@ A simple and stylish currency converter built using **CustomTkinter** and the **
 - 🌐 Supports popular currencies: USD, EUR, INR, GBP, JPY, AUD, CAD, CNY, CHF
 - ⚠️ Input validation with helpful error messages
 - 🔒 Minimal dependencies and easy to run
+
+---
 
 ## 🛠️ Installation
 
@@ -21,18 +25,22 @@ A simple and stylish currency converter built using **CustomTkinter** and the **
 pip install customtkinter requests
 ```
 
+---
 
 ## 📦 How to Run
-### Clone the repository:
+### 1.Clone the repository:
 
 ```
 git clone https://github.com/your-username/currency-converter.git
 cd currency-converter
 ```
-## Run the application:
+### 2.Run the application:
 ```
-python converter.py
+python Project_1_(Currency Converter).py
 ```
+
+---
+
 ## 🔧 Usage
 
 Enter the amount to convert.
@@ -43,10 +51,14 @@ Click the Convert button.
 
 View the result below.
 
+---
+
 ## 📌 Notes
 Uses Frankfurter API, which does not require an API key.
 
 Only basic currencies are listed, but you can extend the currency_list easily.
+
+---
 
 ## 🙋‍♂️ Author
 Aman Yadav
