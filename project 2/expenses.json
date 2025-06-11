@@ -1,0 +1,17 @@
+[
+    {
+        "amount": 1000.0,
+        "category": "food",
+        "date": "2025-06-10"
+    },
+    {
+        "amount": 500.0,
+        "category": "haircut",
+        "date": "2025-06-10"
+    },
+    {
+        "amount": 300.0,
+        "category": "reacharge",
+        "date": "2025-06-10"
+    }
+]
