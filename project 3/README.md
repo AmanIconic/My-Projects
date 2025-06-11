@@ -24,18 +24,12 @@ This is a simple **console-based library management system** written in Python. 
 
 ### 📦 How to Run
 
-1. **Clone or Download the Project**
+1. **Run the Program**
     ```bash
-    git clone https://github.com/yourusername/library-management-system.git
-    cd library-management-system
+    Project_3_(Library_Management_System).py
     ```
 
-2. **Run the Program**
-    ```bash
-    python library_system.py
-    ```
-
-3. **Follow the Menu**  
+2. **Follow the Menu**  
    Choose options to add, issue, return, or view books.
 
 ---
