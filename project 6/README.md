@@ -40,7 +40,7 @@ pip install customtkinter
 ---
 
 ## ▶️ How to Run
-1.Save the script as task_manager.py
+1.Save the script as Project_6_(To_Do_List).py
 
 2.Open terminal or command prompt
 
