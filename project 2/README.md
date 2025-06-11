@@ -43,7 +43,7 @@ pip install customtkinter tkcalendar matplotlib
 
 ## 3. Run the App
 ```
-python expense_tracker.py
+Project_2_(Expense_Tracker).py
 ```
 
 ---
