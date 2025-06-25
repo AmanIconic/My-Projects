@@ -1,4 +1,6 @@
 {
-    "books": {},
+    "books": {
+        "001": "Python"
+    },
     "issued": {}
 }
