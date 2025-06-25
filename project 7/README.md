@@ -35,13 +35,6 @@ A modern, sleek, and fully customizable random password generator built using **
 
 ## 🧑‍💻 How to Run
 
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/yourusername/random-password-generator-gui.git
-cd random-password-generator-gui
-```
-
 ### 2. Install requirements
 ```
 pip install customtkinter

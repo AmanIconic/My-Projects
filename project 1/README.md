@@ -28,13 +28,7 @@ pip install customtkinter requests
 ---
 
 ## 📦 How to Run
-### 1.Clone the repository:
-
-```
-git clone https://github.com/your-username/currency-converter.git
-cd currency-converter
-```
-### 2.Run the application:
+### Run the application:
 ```
 python Project_1_(Currency_Converter).py
 ```
