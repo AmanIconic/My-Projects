@@ -53,6 +53,10 @@ Uses Frankfurter API, which does not require an API key.
 Only basic currencies are listed, but you can extend the currency_list easily.
 
 ---
+## ScreenRecording
+https://drive.google.com/file/d/12YfBnbCG0pKjSlUViQQ2hdbCQl3-90o8/view?usp=drive_link
+
+---
 
 ## 🙋‍♂️ Author
 Aman Yadav
